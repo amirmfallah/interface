@@ -8,7 +8,6 @@ import styled, { ThemeContext } from 'styled-components/macro'
 
 import { useUSDCValue } from '../../hooks/useUSDCPrice'
 import { ThemedText } from '../../theme'
-import { isAddress, shortenAddress } from '../../utils'
 import { computeFiatValuePriceImpact } from '../../utils/computeFiatValuePriceImpact'
 import { ButtonPrimary } from '../Button'
 import { LightCard } from '../Card'
@@ -160,16 +159,6 @@ export default function SwapModalHeader({
           </ThemedText.Italic>
         )}
       </AutoColumn>
-      {recipient !== null ? (
-        <AutoColumn justify="flex-start" gap="sm" style={{ padding: '12px 0 0 0px' }}>
-          <ThemedText.Main>
-            <Trans>
-              Output will be sent to{' '}
-              <b title={recipient}>{isAddress(recipient) ? shortenAddress(recipient) : recipient}</b>
-            </Trans>
-          </ThemedText.Main>
-        </AutoColumn>
-      ) : null}
     </AutoColumn>
   )
 }

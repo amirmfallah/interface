@@ -8,7 +8,6 @@ import { useActivePopups } from '../../state/application/hooks'
 import { useShowDonationLink, useURLWarningVisible } from '../../state/user/hooks'
 import { AutoColumn } from '../Column'
 import ClaimPopup from './ClaimPopup'
-import DonationLink from './DonationLink'
 import PopupItem from './PopupItem'
 
 const MobilePopupWrapper = styled.div<{ height: string | number }>`
@@ -80,11 +79,9 @@ export default function Popups() {
         {activePopups.map((item) => (
           <PopupItem key={item.key} content={item.content} popKey={item.key} removeAfterMs={item.removeAfterMs} />
         ))}
-        {showDonation ? <DonationLink /> : null}
       </FixedPopupColumn>
       <MobilePopupWrapper height={activePopups?.length > 0 || showDonation ? 'fit-content' : 0}>
         <MobilePopupInner>
-          {showDonation ? <DonationLink /> : null}
           {activePopups // reverse so new items up front
             .slice(0)
             .reverse()

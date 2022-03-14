@@ -395,9 +395,8 @@ export default function WalletModal({
                 <ThemedText.Black fontSize={14}>
                   <Trans>
                     By connecting a wallet, you agree to Uniswap Labs’{' '}
-                    <ExternalLink href="https://uniswap.org/terms-of-service/">Terms of Service</ExternalLink> and
-                    acknowledge that you have read and understand the Uniswap{' '}
-                    <ExternalLink href="https://uniswap.org/disclaimer/">Protocol Disclaimer</ExternalLink>.
+                    <ExternalLink href="/faq">Terms of Service</ExternalLink> and acknowledge that you have read and
+                    understand the Uniswap <ExternalLink href="/disclaimer">Protocol Disclaimer</ExternalLink>.
                   </Trans>
                 </ThemedText.Black>
               </AutoRow>
