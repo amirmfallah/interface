@@ -394,9 +394,9 @@ export default function WalletModal({
               <AutoRow style={{ flexWrap: 'nowrap' }}>
                 <ThemedText.Black fontSize={14}>
                   <Trans>
-                    By connecting a wallet, you agree to Uniswap Labs’{' '}
+                    By connecting a wallet, you agree to ETHBridge Labs’{' '}
                     <ExternalLink href="/faq">Terms of Service</ExternalLink> and acknowledge that you have read and
-                    understand the Uniswap <ExternalLink href="/disclaimer">Protocol Disclaimer</ExternalLink>.
+                    understand the ETHBridge <ExternalLink href="/disclaimer">Protocol Disclaimer</ExternalLink>.
                   </Trans>
                 </ThemedText.Black>
               </AutoRow>

