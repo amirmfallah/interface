@@ -1,5 +1,5 @@
 /**
- * List of all the networks supported by the Uniswap Interface
+ * List of all the networks supported by the ETHBridge Interface
  */
 export enum SupportedChainId {
   MAINNET = 1,

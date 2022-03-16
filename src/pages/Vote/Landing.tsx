@@ -142,13 +142,13 @@ export default function Landing() {
               <AutoColumn gap="md">
                 <RowBetween>
                   <ThemedText.White fontWeight={600}>
-                    <Trans>Uniswap Governance</Trans>
+                    <Trans>ETHBridge Governance</Trans>
                   </ThemedText.White>
                 </RowBetween>
                 <RowBetween>
                   <ThemedText.White fontSize={14}>
                     <Trans>
-                      UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself
+                      UNI tokens represent voting shares in ETHBridge governance. You can vote on each proposal yourself
                       or delegate your votes to a third party.
                     </Trans>
                   </ThemedText.White>
@@ -159,7 +159,7 @@ export default function Landing() {
                   target="_blank"
                 >
                   <ThemedText.White fontSize={14}>
-                    <Trans>Read more about Uniswap governance</Trans>
+                    <Trans>Read more about ETHBridge governance</Trans>
                   </ThemedText.White>
                 </ExternalLink>
               </AutoColumn>

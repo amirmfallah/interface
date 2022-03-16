@@ -32,7 +32,7 @@ export default memo(function BrandedFooter() {
         <Row gap={0.25}>
           <Logo />
           <ThemedText.Caption>
-            <Trans>Powered by the Uniswap protocol</Trans>
+            <Trans>Powered by the ETHBridge protocol</Trans>
           </ThemedText.Caption>
         </Row>
       </UniswapA>

@@ -144,8 +144,8 @@ msgid "Add"
 msgstr "Lisää"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Add <0/> and <1/> to Uniswap V2"
-msgstr "Lisää <0/> ja <1/> Uniswap V2: een"
+msgid "Add <0/> and <1/> to ETHBridge V2"
+msgstr "Lisää <0/> ja <1/> ETHBridge V2: een"
 
 #: src/components/vote/DelegateModal.tsx
 msgid "Add Delegate +"
@@ -205,8 +205,8 @@ msgid "Allow high price impact trades and skip the confirm screen. Use at your o
 msgstr "Salli korkean hintavaikutuksen kaupat ja ohita vahvistusnäyttö. Käytä omalla vastuullasi."
 
 #: src/pages/Swap/index.tsx
-msgid "Allow the Uniswap Protocol to use your {0}"
-msgstr "Salli Uniswap-protokollan käyttää {0}"
+msgid "Allow the ETHBridge Protocol to use your {0}"
+msgstr "Salli ETHBridge-protokollan käyttää {0}"
 
 #: src/lib/components/Swap/SwapButton.tsx
 msgid "Allow {0} first"
@@ -221,8 +221,8 @@ msgid "Amount"
 msgstr "Määrä"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Tapahtui virhe yritettäessä suorittaa tämä vaihto. Saatat joutua lisäämään luistonsietokykyäsi. Jos se ei toimi, kaupankäynnin kohteena olevan tunnuksen kanssa saattaa olla ristiriita. Huomautus: siirto- ja uudelleentase-tunnusten maksu ei ole yhteensopiva Uniswap V3: n kanssa."
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Tapahtui virhe yritettäessä suorittaa tämä vaihto. Saatat joutua lisäämään luistonsietokykyäsi. Jos se ei toimi, kaupankäynnin kohteena olevan tunnuksen kanssa saattaa olla ristiriita. Huomautus: siirto- ja uudelleentase-tunnusten maksu ei ole yhteensopiva ETHBridge V3: n kanssa."
 
 #: src/lib/components/Swap/SwapButton.tsx
 msgid "Approval pending"
@@ -284,8 +284,8 @@ msgid "Are you sure?"
 msgstr "Oletko varma?"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "As a member of the Uniswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
-msgstr "Uniswap-yhteisön jäsenenä voit lunastaa UNI-rahakkeita käytettäväksi äänestämiseen ja hallintoon.<0/><1/><2>Lue lisää UNIsta</2>"
+msgid "As a member of the ETHBridge community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+msgstr "ETHBridge-yhteisön jäsenenä voit lunastaa UNI-rahakkeita käytettäväksi äänestämiseen ja hallintoon.<0/><1/><2>Lue lisää UNIsta</2>"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
@@ -349,8 +349,8 @@ msgid "By adding this list you are implicitly trusting that the data is correct.
 msgstr "Lisäämällä tämän luettelon luotat ehdottomasti siihen, että tiedot ovat oikein. Kuka tahansa voi luoda luettelon ja luoda myös väärennettyjä versioita olemassa olevista luetteloista ja luetteloista, jotka väittävät edustavansa hankkeita, joilla ei sellaista ole."
 
 #: src/components/WalletModal/index.tsx
-msgid "By connecting a wallet, you agree to Uniswap Labs’ <0>Terms of Service</0> and acknowledge that you have read and understand the Uniswap <1>Protocol Disclaimer</1>."
-msgstr "Yhdistämällä lompakon hyväksyt Uniswap Labsin <0>-palveluehdot</0> ja vahvistat lukeneesi ja ymmärtäväsi Uniswap <1>-protokollan vastuuvapauslausekkeen</1>."
+msgid "By connecting a wallet, you agree to ETHBridge Labs’ <0>Terms of Service</0> and acknowledge that you have read and understand the ETHBridge <1>Protocol Disclaimer</1>."
+msgstr "Yhdistämällä lompakon hyväksyt ETHBridge Labsin <0>-palveluehdot</0> ja vahvistat lukeneesi ja ymmärtäväsi ETHBridge <1>-protokollan vastuuvapauslausekkeen</1>."
 
 #: src/pages/Vote/styled.tsx
 msgid "Canceled"
@@ -660,8 +660,8 @@ msgid "Deposit tokens to the {label} network."
 msgstr "Talleta tokeneja {label} verkkoon."
 
 #: src/pages/Earn/index.tsx
-msgid "Deposit your Liquidity Provider tokens to receive UNI, the Uniswap protocol governance token."
-msgstr "Talleta likviditeetin tarjoajan rahakkeesi saadaksesi UNI-rahakkeita, Uniswap-protokollan hallintorahakkeita."
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the ETHBridge protocol governance token."
+msgstr "Talleta likviditeetin tarjoajan rahakkeesi saadaksesi UNI-rahakkeita, ETHBridge-protokollan hallintorahakkeita."
 
 #: src/components/earn/UnstakingModal.tsx
 msgid "Deposited liquidity:"
@@ -717,7 +717,7 @@ msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "Etkö näe yhtä v2-positiostasi? <0>Tuo se.</0>"
 
 #: src/components/vote/DelegateModal.tsx
-msgid "Earned UNI tokens represent voting shares in Uniswap governance."
+msgid "Earned UNI tokens represent voting shares in ETHBridge governance."
 msgstr "Ansaitut UNI-rahakkeet edustavat äänioikeusosakkeita Uniswapin hallinnossa."
 
 #: src/components/FeeSelector/index.tsx
@@ -832,12 +832,12 @@ msgid "Expired"
 msgstr "Vanhentunut"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Explore Uniswap Analytics."
-msgstr "Tutustu Uniswap Analyticsiin."
+msgid "Explore ETHBridge Analytics."
+msgstr "Tutustu ETHBridge Analyticsiin."
 
 #: src/components/Popups/FailedNetworkSwitchPopup.tsx
-msgid "Failed to switch networks from the Uniswap Interface. In order to use Uniswap on {0}, you must change the network in your wallet."
-msgstr "Verkkojen vaihtaminen Uniswap-liittymästä epäonnistui. Jotta voit käyttää Uniswapia {0}, sinun on vaihdettava verkko lompakossasi."
+msgid "Failed to switch networks from the ETHBridge Interface. In order to use ETHBridge on {0}, you must change the network in your wallet."
+msgstr "Verkkojen vaihtaminen ETHBridge-liittymästä epäonnistui. Jotta voit käyttää Uniswapia {0}, sinun on vaihdettava verkko lompakossasi."
 
 #: src/components/PositionPreview/index.tsx
 msgid "Fee Tier"
@@ -861,8 +861,8 @@ msgid "For"
 msgstr "Kohteelle"
 
 #: src/pages/MigrateV2/index.tsx
-msgid "For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into Uniswap V3."
-msgstr "Kunkin alla olevan poolin kohdalla paina \"siirrä\" poistaaksesi likviditeettisi Uniswap V2:sta ja tallettaaksesi sen Uniswap V3:een."
+msgid "For each pool shown below, click migrate to remove your liquidity from ETHBridge V2 and deposit it into ETHBridge V3."
+msgstr "Kunkin alla olevan poolin kohdalla paina \"siirrä\" poistaaksesi likviditeettisi ETHBridge V2:sta ja tallettaaksesi sen ETHBridge V3:een."
 
 #: src/pages/Swap/index.tsx
 msgid "From"
@@ -1165,8 +1165,8 @@ msgid "Migrate V2 Liquidity"
 msgstr "Siirrä V2-likviditeetti"
 
 #: src/pages/MigrateV2/index.tsx
-msgid "Migrate your liquidity tokens from Uniswap V2 to Uniswap V3."
-msgstr "Siirrä likviditeettirahakkeesi Uniswap V2:sta Uniswap V3:een."
+msgid "Migrate your liquidity tokens from ETHBridge V2 to ETHBridge V3."
+msgstr "Siirrä likviditeettirahakkeesi ETHBridge V2:sta ETHBridge V3:een."
 
 #: src/components/AccountDetails/TransactionSummary.tsx
 msgid "Migrate {0}/{1} liquidity to V3"
@@ -1405,8 +1405,8 @@ msgid "Pools Overview"
 msgstr "Poolien yleiskatsaus"
 
 #: src/lib/components/BrandedFooter.tsx
-msgid "Powered by the Uniswap protocol"
-msgstr "Toimii Uniswap-protokollalla"
+msgid "Powered by the ETHBridge protocol"
+msgstr "Toimii ETHBridge-protokollalla"
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -1497,7 +1497,7 @@ msgid "Read more about UNI"
 msgstr "Lue lisää UNIsta"
 
 #: src/pages/Vote/Landing.tsx
-msgid "Read more about Uniswap governance"
+msgid "Read more about ETHBridge governance"
 msgstr "Lue lisää Uniswapin hallinnosta"
 
 #: src/pages/Pool/v2.tsx
@@ -1760,24 +1760,24 @@ msgid "Swapping {0} {1} for {2} {3}"
 msgstr "Vaihdetaan {0} {1} kohteeseen {2} {3}"
 
 #: src/components/Popups/SurveyPopup.tsx
-msgid "Take a 10 minute survey to help us improve your experience in the Uniswap app."
-msgstr "Vastaa 10 minuutin kyselyyn, jonka avulla voimme parantaa käyttökokemustasi Uniswap-sovelluksessa."
+msgid "Take a 10 minute survey to help us improve your experience in the ETHBridge app."
+msgstr "Vastaa 10 minuutin kyselyyn, jonka avulla voimme parantaa käyttökokemustasi ETHBridge-sovelluksessa."
 
 #: src/components/Popups/SurveyPopup.tsx
 msgid "Tell us what you think ↗"
 msgstr "Kerro meille mielipiteesi ↗"
 
 #: src/components/Popups/ClaimPopup.tsx
-msgid "Thanks for being part of the Uniswap community <0/>"
-msgstr "Kiitos, että olet osa Uniswap-yhteisöä <0/>"
+msgid "Thanks for being part of the ETHBridge community <0/>"
+msgstr "Kiitos, että olet osa ETHBridge-yhteisöä <0/>"
 
 #: src/components/FeeSelector/index.tsx
 msgid "The % you will earn in fees."
 msgstr "% Ansaitset palkkioita."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
-msgstr "Vaihto ei tyydyttänyt Uniswap-invarianttia x*y=k. Tämä tarkoittaa yleensä sitä, että yksi vaihtamistasi rahakkeista käyttäytyy mukautetusti siirron yhteydessä."
+msgid "The ETHBridge invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+msgstr "Vaihto ei tyydyttänyt ETHBridge-invarianttia x*y=k. Tämä tarkoittaa yleensä sitä, että yksi vaihtamistasi rahakkeista käyttäytyy mukautetusti siirron yhteydessä."
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "The app fetches blockchain data from The Graph’s hosted service."
@@ -1788,8 +1788,8 @@ msgid "The app fetches on-chain data and constructs contract calls with an Infur
 msgstr "Sovellus hakee ketjun tietoja ja muodostaa sopimuskutsuja Infura API:lla."
 
 #: src/components/PrivacyPolicy/index.tsx
-msgid "The app fetches the optimal trade route from a Uniswap Labs server."
-msgstr "Sovellus hakee optimaalisen kauppareitin Uniswap Labs -palvelimelta."
+msgid "The app fetches the optimal trade route from a ETHBridge Labs server."
+msgstr "Sovellus hakee optimaalisen kauppareitin ETHBridge Labs -palvelimelta."
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "The app logs anonymized usage statistics in order to improve over time."
@@ -1828,8 +1828,8 @@ msgid "The output token cannot be transferred. There may be an issue with the ou
 msgstr "Tulosrahaketta ei voida siirtää. Tulosrahakkeessa voi olla ongelma."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Tulostunnusta ei voi siirtää. Tulostunnuksessa voi olla ongelma. Huomautus: siirto- ja uudelleentase-tunnusten maksu ei ole yhteensopiva Uniswap V3: n kanssa."
+msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Tulostunnusta ei voi siirtää. Tulostunnuksessa voi olla ongelma. Huomautus: siirto- ja uudelleentase-tunnusten maksu ei ole yhteensopiva ETHBridge V3: n kanssa."
 
 #: src/components/Badge/RangeBadge.tsx
 msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
@@ -1868,16 +1868,16 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "Tätä rahaketta ei näy aktiivisissa rahakeluetteloissa. Varmista, että tämä on rahake, jonka haluat vaihtaa."
 
 #: src/components/SearchModal/BlockedToken.tsx
-msgid "This token is not supported in the Uniswap Labs app"
-msgstr "Uniswap Labs -sovellus ei tue tätä tunnusta"
+msgid "This token is not supported in the ETHBridge Labs app"
+msgstr "ETHBridge Labs -sovellus ei tue tätä tunnusta"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
 msgstr "Tämä työkalu siirtää {0} likviditeettisi turvallisesti V3:lle. Prosessi on täysin luotettava kiitos"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Tämä kauppa ei onnistu hintaliikkeen vuoksi. Yritä lisätä liukastumistoleranssia. Huomautus: siirto- ja uudelleentase-tunnusten maksu ei ole yhteensopiva Uniswap V3: n kanssa."
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Tämä kauppa ei onnistu hintaliikkeen vuoksi. Yritä lisätä liukastumistoleranssia. Huomautus: siirto- ja uudelleentase-tunnusten maksu ei ole yhteensopiva ETHBridge V3: n kanssa."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
@@ -1971,8 +1971,8 @@ msgid "Try Again"
 msgstr "Yritä uudelleen"
 
 #: src/lib/components/Swap/Status/StatusDialog.tsx
-msgid "Try increasing your slippage tolerance.<0/>NOTE: Fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Yritä lisätä liukastumistoleranssiasi.<0/>HUOMAA: Siirtomaksu ja uudelleenperustamistunnukset eivät ole yhteensopivia Uniswap V3:n kanssa."
+msgid "Try increasing your slippage tolerance.<0/>NOTE: Fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Yritä lisätä liukastumistoleranssiasi.<0/>HUOMAA: Siirtomaksu ja uudelleenperustamistunnukset eivät ole yhteensopivia ETHBridge V3:n kanssa."
 
 #: src/components/Settings/index.tsx
 msgid "Turn On Expert Mode"
@@ -1983,7 +1983,7 @@ msgid "UNI has arrived"
 msgstr "UNI on saapunut"
 
 #: src/pages/Vote/Landing.tsx
-msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgid "UNI tokens represent voting shares in ETHBridge governance. You can vote on each proposal yourself or delegate your votes to a third party."
 msgstr "UNI-rahakkeet edustavat Uniswapin hallinnon äänestysosakkeita. Voit äänestää jokaisesta ehdotuksesta itse tai delegoida äänesi kolmannelle osapuolelle."
 
 #: src/pages/RemoveLiquidity/index.tsx
@@ -2020,27 +2020,27 @@ msgid "Unexpected issue with estimating the gas. Please try again."
 msgstr "Odottamaton ongelma kaasun arvioinnissa. Yritä uudelleen."
 
 #: src/pages/Vote/Landing.tsx
-msgid "Uniswap Governance"
+msgid "ETHBridge Governance"
 msgstr "Uniswapin hallinto"
 
 #: src/components/PrivacyPolicy/index.tsx
-msgid "Uniswap Labs' Terms of Service"
-msgstr "Uniswap Labsin käyttöehdot"
+msgid "ETHBridge Labs' Terms of Service"
+msgstr "ETHBridge Labsin käyttöehdot"
 
 #: src/components/SwitchLocaleLink/index.tsx
-msgid "Uniswap available in: <0>{0}</0>"
-msgstr "Uniswap käytettävissä: <0>{0}</0>"
+msgid "ETHBridge available in: <0>{0}</0>"
+msgstr "ETHBridge käytettävissä: <0>{0}</0>"
 
 #: src/components/vote/ProposalEmptyState.tsx
-msgid "Uniswap governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
-msgstr "Uniswap-hallinta on käytettävissä vain kerroksessa 1. Vaihda verkko Ethereum Mainnet -palveluun nähdäksesi ehdotuksia ja äänestystä."
+msgid "ETHBridge governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "ETHBridge-hallinta on käytettävissä vain kerroksessa 1. Vaihda verkko Ethereum Mainnet -palveluun nähdäksesi ehdotuksia ja äänestystä."
 
 #: src/pages/Earn/index.tsx
-msgid "Uniswap liquidity mining"
+msgid "ETHBridge liquidity mining"
 msgstr "Uniswapin likviditeetin louhinta"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "Uniswap migration contract↗"
+msgid "ETHBridge migration contract↗"
 msgstr "Uniswapin siirtosopimus ↗"
 
 #: src/components/SearchModal/TokenImportCard.tsx
@@ -2048,8 +2048,8 @@ msgid "Unknown Source"
 msgstr "Tuntematon lähde"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Tuntematon virhe{0}. Yritä lisätä liukastumissietokykyäsi. Huomaa: siirto- ja uudelleenkorotusmaksut eivät ole yhteensopivia Uniswap V3: n kanssa."
+msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Tuntematon virhe{0}. Yritä lisätä liukastumissietokykyäsi. Huomaa: siirto- ja uudelleenkorotusmaksut eivät ole yhteensopivia ETHBridge V3: n kanssa."
 
 #: src/pages/Vote/Landing.tsx
 #: src/pages/Vote/VotePage.tsx
@@ -2116,8 +2116,8 @@ msgid "Update list"
 msgstr "Päivitä luettelo"
 
 #: src/components/Settings/index.tsx
-msgid "Use the Uniswap Labs API to get faster quotes."
-msgstr "Käytä Uniswap Labs -sovellusliittymää saadaksesi nopeammat tarjoukset."
+msgid "Use the ETHBridge Labs API to get faster quotes."
+msgstr "Käytä ETHBridge Labs -sovellusliittymää saadaksesi nopeammat tarjoukset."
 
 #: src/components/claim/ClaimModal.tsx
 msgid "User"
@@ -2314,8 +2314,8 @@ msgid "You are creating a pool"
 msgstr "Olet luomassa poolia"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "You are the first liquidity provider for this Uniswap V3 pool. Your liquidity will migrate at the current {0} price."
-msgstr "Olet tämän Uniswap V3 -poolin ensimmäinen likviditeetin tarjoaja. Likviditeettisi siirtyy nykyiseen {0} hintaan."
+msgid "You are the first liquidity provider for this ETHBridge V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "Olet tämän ETHBridge V3 -poolin ensimmäinen likviditeetin tarjoaja. Likviditeettisi siirtyy nykyiseen {0} hintaan."
 
 #: src/pages/AddLiquidityV2/index.tsx
 msgid "You are the first liquidity provider."
@@ -2354,7 +2354,7 @@ msgid "You must connect an account."
 msgstr "Sinun on yhdistettävä tili."
 
 #: src/pages/Swap/index.tsx
-msgid "You must give the Uniswap smart contracts permission to use your {0}. You only have to do this once per token."
+msgid "You must give the ETHBridge smart contracts permission to use your {0}. You only have to do this once per token."
 msgstr "Sinun täytyy antaa Uniswapin älykkäille sopimuksille lupa käyttää {0}. Sinun täytyy tehdä tämä vain kerran per rahake."
 
 #: src/pages/CreateProposal/index.tsx
@@ -2362,8 +2362,8 @@ msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
 msgstr "Sinulla on oltava {formattedProposalThreshold} ääntä voidaksesi lähettää ehdotuksen"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "You should only deposit liquidity into Uniswap V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
-msgstr "Sinun tulisi tallettaa likviditeettiä Uniswap V3:een ainoastaan hintaan, jonka uskot olevan oikein. <0/>Jos hinta vaikuttaa virheelliseltä, voit joko vaihtaa hintaa tai odottaa jonkun muun tekevän niin."
+msgid "You should only deposit liquidity into ETHBridge V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "Sinun tulisi tallettaa likviditeettiä ETHBridge V3:een ainoastaan hintaan, jonka uskot olevan oikein. <0/>Jos hinta vaikuttaa virheelliseltä, voit joko vaihtaa hintaa tai odottaa jonkun muun tekevän niin."
 
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "You will also collect fees earned from this position."

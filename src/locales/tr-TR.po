@@ -144,8 +144,8 @@ msgid "Add"
 msgstr "Ekle"
 
 #: src/components/AccountDetails/TransactionSummary.tsx
-msgid "Add <0/> and <1/> to Uniswap V2"
-msgstr "Uniswap V2'ye <0/> ve <1/> ekleyin"
+msgid "Add <0/> and <1/> to ETHBridge V2"
+msgstr "ETHBridge V2'ye <0/> ve <1/> ekleyin"
 
 #: src/components/vote/DelegateModal.tsx
 msgid "Add Delegate +"
@@ -205,8 +205,8 @@ msgid "Allow high price impact trades and skip the confirm screen. Use at your o
 msgstr "Yüksek fiyat etkili işlemlere izin verin ve onay ekranını atlayın. Kendi sorumluluğunuz altında kullanın."
 
 #: src/pages/Swap/index.tsx
-msgid "Allow the Uniswap Protocol to use your {0}"
-msgstr "Uniswap Protokolünün {0} kullanmasına izin verin"
+msgid "Allow the ETHBridge Protocol to use your {0}"
+msgstr "ETHBridge Protokolünün {0} kullanmasına izin verin"
 
 #: src/lib/components/Swap/SwapButton.tsx
 msgid "Allow {0} first"
@@ -221,8 +221,8 @@ msgid "Amount"
 msgstr "Miktar"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Bu takas yürütülmeye çalışılırken bir hata oluştu. Kayma toleransınızı artırmanız gerekebilir. Bu işe yaramazsa, işlem yaptığınız token ile uyumsuzluk olabilir. Not: Transfer ve rebase jetonlarındaki ücret, Uniswap V3 ile uyumlu değildir."
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Bu takas yürütülmeye çalışılırken bir hata oluştu. Kayma toleransınızı artırmanız gerekebilir. Bu işe yaramazsa, işlem yaptığınız token ile uyumsuzluk olabilir. Not: Transfer ve rebase jetonlarındaki ücret, ETHBridge V3 ile uyumlu değildir."
 
 #: src/lib/components/Swap/SwapButton.tsx
 msgid "Approval pending"
@@ -284,8 +284,8 @@ msgid "Are you sure?"
 msgstr "Emin misiniz?"
 
 #: src/components/claim/ClaimModal.tsx
-msgid "As a member of the Uniswap community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
-msgstr "Uniswap topluluğunun bir üyesi olarak, UNI'nin oylama ve yönetim için kullanılmasını talep edebilirsiniz.<0/><1/><2>UNI hakkında daha fazla bilgi edinin</2>"
+msgid "As a member of the ETHBridge community you may claim UNI to be used for voting and governance.<0/><1/><2>Read more about UNI</2>"
+msgstr "ETHBridge topluluğunun bir üyesi olarak, UNI'nin oylama ve yönetim için kullanılmasını talep edebilirsiniz.<0/><1/><2>UNI hakkında daha fazla bilgi edinin</2>"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
@@ -349,8 +349,8 @@ msgid "By adding this list you are implicitly trusting that the data is correct.
 msgstr "Bu listeyi ekleyerek, verilerin doğru olduğuna dolaylı olarak güveniyorsunuz. Mevcut listelerin sahte sürümlerini ve listesi olmayan projeleri temsil ettiğini iddia eden listeler de dahil olmak üzere herkes bir liste oluşturabilir."
 
 #: src/components/WalletModal/index.tsx
-msgid "By connecting a wallet, you agree to Uniswap Labs’ <0>Terms of Service</0> and acknowledge that you have read and understand the Uniswap <1>Protocol Disclaimer</1>."
-msgstr "Bir cüzdan bağlayarak, Uniswap Labs'ın kabul <0>Hizmet Şartları'nı</0> ve okuduğunuzu ve Uniswap anladığımı teyit <1>Protokol Uyarı</1>."
+msgid "By connecting a wallet, you agree to ETHBridge Labs’ <0>Terms of Service</0> and acknowledge that you have read and understand the ETHBridge <1>Protocol Disclaimer</1>."
+msgstr "Bir cüzdan bağlayarak, ETHBridge Labs'ın kabul <0>Hizmet Şartları'nı</0> ve okuduğunuzu ve ETHBridge anladığımı teyit <1>Protokol Uyarı</1>."
 
 #: src/pages/Vote/styled.tsx
 msgid "Canceled"
@@ -660,8 +660,8 @@ msgid "Deposit tokens to the {label} network."
 msgstr "{label} ağına jeton yatırın."
 
 #: src/pages/Earn/index.tsx
-msgid "Deposit your Liquidity Provider tokens to receive UNI, the Uniswap protocol governance token."
-msgstr "Uniswap protokolü yönetim jetonu olan UNI'yi almak için Likidite Sağlayıcı jetonlarınızı yatırın."
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the ETHBridge protocol governance token."
+msgstr "ETHBridge protokolü yönetim jetonu olan UNI'yi almak için Likidite Sağlayıcı jetonlarınızı yatırın."
 
 #: src/components/earn/UnstakingModal.tsx
 msgid "Deposited liquidity:"
@@ -717,8 +717,8 @@ msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
 msgstr "V2 konumlarınızdan birini görmüyor musunuz? <0>İçe aktarın.</0>"
 
 #: src/components/vote/DelegateModal.tsx
-msgid "Earned UNI tokens represent voting shares in Uniswap governance."
-msgstr "Kazanılan UNI jetonları, Uniswap yönetiminde oy hakkına sahip hisseleri temsil eder."
+msgid "Earned UNI tokens represent voting shares in ETHBridge governance."
+msgstr "Kazanılan UNI jetonları, ETHBridge yönetiminde oy hakkına sahip hisseleri temsil eder."
 
 #: src/components/FeeSelector/index.tsx
 msgid "Edit"
@@ -832,12 +832,12 @@ msgid "Expired"
 msgstr "Süresi doldu"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Explore Uniswap Analytics."
-msgstr "Uniswap Analytics'i keşfedin."
+msgid "Explore ETHBridge Analytics."
+msgstr "ETHBridge Analytics'i keşfedin."
 
 #: src/components/Popups/FailedNetworkSwitchPopup.tsx
-msgid "Failed to switch networks from the Uniswap Interface. In order to use Uniswap on {0}, you must change the network in your wallet."
-msgstr "Uniswap Arabiriminden ağlar arasında geçiş yapılamadı. {0}üzerinde Uniswap kullanmak için cüzdanınızdaki ağı değiştirmelisiniz."
+msgid "Failed to switch networks from the ETHBridge Interface. In order to use ETHBridge on {0}, you must change the network in your wallet."
+msgstr "ETHBridge Arabiriminden ağlar arasında geçiş yapılamadı. {0}üzerinde ETHBridge kullanmak için cüzdanınızdaki ağı değiştirmelisiniz."
 
 #: src/components/PositionPreview/index.tsx
 msgid "Fee Tier"
@@ -861,8 +861,8 @@ msgid "For"
 msgstr "Şunun için"
 
 #: src/pages/MigrateV2/index.tsx
-msgid "For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into Uniswap V3."
-msgstr "Aşağıda gösterilen her bir havuz için, likiditenizi Uniswap V2'den kaldırmak ve Uniswap V3'e yatırmak için Geçir'e tıklayın."
+msgid "For each pool shown below, click migrate to remove your liquidity from ETHBridge V2 and deposit it into ETHBridge V3."
+msgstr "Aşağıda gösterilen her bir havuz için, likiditenizi ETHBridge V2'den kaldırmak ve ETHBridge V3'e yatırmak için Geçir'e tıklayın."
 
 #: src/pages/Swap/index.tsx
 msgid "From"
@@ -1165,8 +1165,8 @@ msgid "Migrate V2 Liquidity"
 msgstr "V2 Likiditesini Geçirin"
 
 #: src/pages/MigrateV2/index.tsx
-msgid "Migrate your liquidity tokens from Uniswap V2 to Uniswap V3."
-msgstr "Likidite jetonlarınızı Uniswap V2'den Uniswap V3'e geçirin."
+msgid "Migrate your liquidity tokens from ETHBridge V2 to ETHBridge V3."
+msgstr "Likidite jetonlarınızı ETHBridge V2'den ETHBridge V3'e geçirin."
 
 #: src/components/AccountDetails/TransactionSummary.tsx
 msgid "Migrate {0}/{1} liquidity to V3"
@@ -1405,8 +1405,8 @@ msgid "Pools Overview"
 msgstr "Havuzlara Genel Bakış"
 
 #: src/lib/components/BrandedFooter.tsx
-msgid "Powered by the Uniswap protocol"
-msgstr "Uniswap protokolü tarafından desteklenmektedir"
+msgid "Powered by the ETHBridge protocol"
+msgstr "ETHBridge protokolü tarafından desteklenmektedir"
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -1497,8 +1497,8 @@ msgid "Read more about UNI"
 msgstr "UNI hakkında daha fazla bilgi edinin"
 
 #: src/pages/Vote/Landing.tsx
-msgid "Read more about Uniswap governance"
-msgstr "Uniswap yönetişimi hakkında daha fazla bilgi edinin"
+msgid "Read more about ETHBridge governance"
+msgstr "ETHBridge yönetişimi hakkında daha fazla bilgi edinin"
 
 #: src/pages/Pool/v2.tsx
 msgid "Read more about providing liquidity"
@@ -1760,24 +1760,24 @@ msgid "Swapping {0} {1} for {2} {3}"
 msgstr "{2} {3} yerine {0} {1} swap ediliyor"
 
 #: src/components/Popups/SurveyPopup.tsx
-msgid "Take a 10 minute survey to help us improve your experience in the Uniswap app."
-msgstr "Uniswap uygulamasındaki deneyiminizi iyileştirmemize yardımcı olmak için 10 dakikalık bir ankete katılın."
+msgid "Take a 10 minute survey to help us improve your experience in the ETHBridge app."
+msgstr "ETHBridge uygulamasındaki deneyiminizi iyileştirmemize yardımcı olmak için 10 dakikalık bir ankete katılın."
 
 #: src/components/Popups/SurveyPopup.tsx
 msgid "Tell us what you think ↗"
 msgstr "Bize ne düşündüğünü söyle ↗"
 
 #: src/components/Popups/ClaimPopup.tsx
-msgid "Thanks for being part of the Uniswap community <0/>"
-msgstr "Uniswap topluluğunun bir parçası olduğunuz için teşekkürler <0/>"
+msgid "Thanks for being part of the ETHBridge community <0/>"
+msgstr "ETHBridge topluluğunun bir parçası olduğunuz için teşekkürler <0/>"
 
 #: src/components/FeeSelector/index.tsx
 msgid "The % you will earn in fees."
 msgstr "Ücretlerde kazanacağınız yüzde."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
-msgstr "Uniswap değişmez değeri x*y=k, swap ile sağlanmadı. Bu genellikle, swap ettiğiniz jetonlardan birinin aktarım sırasında özel davranış içerdiği anlamına gelir."
+msgid "The ETHBridge invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+msgstr "ETHBridge değişmez değeri x*y=k, swap ile sağlanmadı. Bu genellikle, swap ettiğiniz jetonlardan birinin aktarım sırasında özel davranış içerdiği anlamına gelir."
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "The app fetches blockchain data from The Graph’s hosted service."
@@ -1788,8 +1788,8 @@ msgid "The app fetches on-chain data and constructs contract calls with an Infur
 msgstr "Uygulama, zincir üzerindeki verileri getirir ve bir Infura API ile sözleşme çağrıları oluşturur."
 
 #: src/components/PrivacyPolicy/index.tsx
-msgid "The app fetches the optimal trade route from a Uniswap Labs server."
-msgstr "Uygulama, bir Uniswap Labs sunucusundan en uygun ticaret yolunu getirir."
+msgid "The app fetches the optimal trade route from a ETHBridge Labs server."
+msgstr "Uygulama, bir ETHBridge Labs sunucusundan en uygun ticaret yolunu getirir."
 
 #: src/components/PrivacyPolicy/index.tsx
 msgid "The app logs anonymized usage statistics in order to improve over time."
@@ -1828,8 +1828,8 @@ msgid "The output token cannot be transferred. There may be an issue with the ou
 msgstr "Çıkış jetonu aktarılamaz. Çıkış jetonuyla ilgili bir sorun olabilir."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Çıkış jetonu aktarılamaz. Çıkış belirteciyle ilgili bir sorun olabilir. Not: Transfer ve rebase jetonlarındaki ücret, Uniswap V3 ile uyumlu değildir."
+msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Çıkış jetonu aktarılamaz. Çıkış belirteciyle ilgili bir sorun olabilir. Not: Transfer ve rebase jetonlarındaki ücret, ETHBridge V3 ile uyumlu değildir."
 
 #: src/components/Badge/RangeBadge.tsx
 msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
@@ -1868,16 +1868,16 @@ msgid "This token doesn't appear on the active token list(s). Make sure this is 
 msgstr "Bu jeton, aktif jeton listelerinde görünmüyor. Bunun takas etmek istediğiniz jeton olduğundan emin olun."
 
 #: src/components/SearchModal/BlockedToken.tsx
-msgid "This token is not supported in the Uniswap Labs app"
-msgstr "Bu belirteç, Uniswap Labs uygulamasında desteklenmiyor"
+msgid "This token is not supported in the ETHBridge Labs app"
+msgstr "Bu belirteç, ETHBridge Labs uygulamasında desteklenmiyor"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
 msgstr "Bu araç, {0} likiditenizi güvenli bir şekilde V3'e geçirecektir. Bu süreç şunun sayesinde sayesinde tamamen güvensizdir:"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Bu işlem, fiyat hareketi nedeniyle başarılı olamayacak. Kayma toleransınızı artırmayı deneyin. Not: Transfer ve rebase jetonlarındaki ücret, Uniswap V3 ile uyumlu değildir."
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Bu işlem, fiyat hareketi nedeniyle başarılı olamayacak. Kayma toleransınızı artırmayı deneyin. Not: Transfer ve rebase jetonlarındaki ücret, ETHBridge V3 ile uyumlu değildir."
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
@@ -1971,8 +1971,8 @@ msgid "Try Again"
 msgstr "Tekrar deneyin"
 
 #: src/lib/components/Swap/Status/StatusDialog.tsx
-msgid "Try increasing your slippage tolerance.<0/>NOTE: Fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Kayma toleransınızı artırmayı deneyin.<0/>NOT: Transfer ve rebase belirteçleri üzerindeki ücret, Uniswap V3 ile uyumlu değildir."
+msgid "Try increasing your slippage tolerance.<0/>NOTE: Fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Kayma toleransınızı artırmayı deneyin.<0/>NOT: Transfer ve rebase belirteçleri üzerindeki ücret, ETHBridge V3 ile uyumlu değildir."
 
 #: src/components/Settings/index.tsx
 msgid "Turn On Expert Mode"
@@ -1983,8 +1983,8 @@ msgid "UNI has arrived"
 msgstr "UNI geldi"
 
 #: src/pages/Vote/Landing.tsx
-msgid "UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself or delegate your votes to a third party."
-msgstr "UNI jetonları, Uniswap yönetiminde oy hakkına sahip hisseleri temsil eder. Her bir teklife kendiniz oy verebilir veya oylarınızı üçüncü bir tarafa devredebilirsiniz."
+msgid "UNI tokens represent voting shares in ETHBridge governance. You can vote on each proposal yourself or delegate your votes to a third party."
+msgstr "UNI jetonları, ETHBridge yönetiminde oy hakkına sahip hisseleri temsil eder. Her bir teklife kendiniz oy verebilir veya oylarınızı üçüncü bir tarafa devredebilirsiniz."
 
 #: src/pages/RemoveLiquidity/index.tsx
 msgid "UNI {0}/{1} Burned"
@@ -2020,36 +2020,36 @@ msgid "Unexpected issue with estimating the gas. Please try again."
 msgstr "Gaz tahmininde beklenmeyen bir sorun. Lütfen tekrar deneyin."
 
 #: src/pages/Vote/Landing.tsx
-msgid "Uniswap Governance"
-msgstr "Uniswap Yönetimi"
+msgid "ETHBridge Governance"
+msgstr "ETHBridge Yönetimi"
 
 #: src/components/PrivacyPolicy/index.tsx
-msgid "Uniswap Labs' Terms of Service"
-msgstr "Uniswap Labs'ın Hizmet Şartları"
+msgid "ETHBridge Labs' Terms of Service"
+msgstr "ETHBridge Labs'ın Hizmet Şartları"
 
 #: src/components/SwitchLocaleLink/index.tsx
-msgid "Uniswap available in: <0>{0}</0>"
-msgstr "Uniswap kullanılabilir: <0>{0}</0>"
+msgid "ETHBridge available in: <0>{0}</0>"
+msgstr "ETHBridge kullanılabilir: <0>{0}</0>"
 
 #: src/components/vote/ProposalEmptyState.tsx
-msgid "Uniswap governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
-msgstr "Uniswap yönetişimi yalnızca Katman 1'de mevcuttur. Teklifleri ve Oyları görüntülemek için ağınızı Ethereum Mainnet'e geçirin."
+msgid "ETHBridge governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "ETHBridge yönetişimi yalnızca Katman 1'de mevcuttur. Teklifleri ve Oyları görüntülemek için ağınızı Ethereum Mainnet'e geçirin."
 
 #: src/pages/Earn/index.tsx
-msgid "Uniswap liquidity mining"
-msgstr "Uniswap likidite madenciliği"
+msgid "ETHBridge liquidity mining"
+msgstr "ETHBridge likidite madenciliği"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "Uniswap migration contract↗"
-msgstr "Uniswap geçiş sözleşmesi↗"
+msgid "ETHBridge migration contract↗"
+msgstr "ETHBridge geçiş sözleşmesi↗"
 
 #: src/components/SearchModal/TokenImportCard.tsx
 msgid "Unknown Source"
 msgstr "Bilinmeyen Kaynak"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Bilinmeyen hata{0}. Kayma toleransınızı artırmayı deneyin. Not: Transfer ve rebase jetonlarındaki ücret, Uniswap V3 ile uyumlu değildir."
+msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with ETHBridge V3."
+msgstr "Bilinmeyen hata{0}. Kayma toleransınızı artırmayı deneyin. Not: Transfer ve rebase jetonlarındaki ücret, ETHBridge V3 ile uyumlu değildir."
 
 #: src/pages/Vote/Landing.tsx
 #: src/pages/Vote/VotePage.tsx
@@ -2116,8 +2116,8 @@ msgid "Update list"
 msgstr "Güncelleme listesi"
 
 #: src/components/Settings/index.tsx
-msgid "Use the Uniswap Labs API to get faster quotes."
-msgstr "Daha hızlı fiyat teklifi almak için Uniswap Labs API'sini kullanın."
+msgid "Use the ETHBridge Labs API to get faster quotes."
+msgstr "Daha hızlı fiyat teklifi almak için ETHBridge Labs API'sini kullanın."
 
 #: src/components/claim/ClaimModal.tsx
 msgid "User"
@@ -2314,8 +2314,8 @@ msgid "You are creating a pool"
 msgstr "Bir havuz oluşturuyorsunuz"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "You are the first liquidity provider for this Uniswap V3 pool. Your liquidity will migrate at the current {0} price."
-msgstr "Bu Uniswap V3 havuzu için ilk likidite sağlayıcısısınız. Likiditeniz mevcut {0} fiyatından geçecek."
+msgid "You are the first liquidity provider for this ETHBridge V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "Bu ETHBridge V3 havuzu için ilk likidite sağlayıcısısınız. Likiditeniz mevcut {0} fiyatından geçecek."
 
 #: src/pages/AddLiquidityV2/index.tsx
 msgid "You are the first liquidity provider."
@@ -2354,16 +2354,16 @@ msgid "You must connect an account."
 msgstr "Bir hesap bağlamalısınız."
 
 #: src/pages/Swap/index.tsx
-msgid "You must give the Uniswap smart contracts permission to use your {0}. You only have to do this once per token."
-msgstr "{0} kullanmak için Uniswap akıllı sözleşmeler iznini vermeniz gerekir. Bunu jeton başına yalnızca bir kez yapmanız gerekir."
+msgid "You must give the ETHBridge smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "{0} kullanmak için ETHBridge akıllı sözleşmeler iznini vermeniz gerekir. Bunu jeton başına yalnızca bir kez yapmanız gerekir."
 
 #: src/pages/CreateProposal/index.tsx
 msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
 msgstr "Bir teklif göndermek için {formattedProposalThreshold} oya sahip olmalısınız"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "You should only deposit liquidity into Uniswap V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
-msgstr "Uniswap V3'e yalnızca doğru olduğuna inandığınız bir fiyat üzerinden likidite yatırmalısınız. <0/>Fiyat yanlış görünüyorsa, fiyatı değiştirmek için bir swap yapabilir veya başka birinin yapmasını bekleyebilirsiniz."
+msgid "You should only deposit liquidity into ETHBridge V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "ETHBridge V3'e yalnızca doğru olduğuna inandığınız bir fiyat üzerinden likidite yatırmalısınız. <0/>Fiyat yanlış görünüyorsa, fiyatı değiştirmek için bir swap yapabilir veya başka birinin yapmasını bekleyebilirsiniz."
 
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "You will also collect fees earned from this position."
